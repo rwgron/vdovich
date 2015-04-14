@@ -1,0 +1,8 @@
+{
+"run_list": [
+"recipe[java]",
+"recipe[chef-solo-search]",
+"recipe[jboss::default]",
+"recipe[jboss::deploy]"
+]
+}

@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef-solo-search (~> 0.5.1)
+  java (~> 1.31.0)
+
+GRAPH
+  chef-solo-search (0.5.1)
+  java (1.31.0)
